@@ -1,0 +1,4 @@
+git add .
+git remote add origin https://github.com/BAGUETTE25740/Aquino.moviles26.git
+git branch -M main
+git push -u origin main
